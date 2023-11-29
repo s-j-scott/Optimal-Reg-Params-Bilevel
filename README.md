@@ -25,7 +25,7 @@ Due to the possibly long runtime to create some of the subfigures, one must unco
 ```python
 setup = {"ul":"MSE", "reg":"tikh", "A_choice":"id"}           # Fig 4a (1 minute)
 ```
-is uncommented and the file is run, then Subfigure 4a will be created with an expected run time taking 30 seconds. 
+is uncommented and the file is run, then Subfigure 4a will be created with an expected run time taking 1 minute. 
 
 ## Citation and Acknowledgement
 
